@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/tomi/Repositories/School/CT30A2803-projekti/.venv"
+set -gx VIRTUAL_ENV "/run/host/home/tomi/Repositories/School/CT30A2803-projekti/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

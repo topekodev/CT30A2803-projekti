@@ -1,4 +1,4 @@
-#!/home/tomi/Repositories/School/CT30A2803-projekti/.venv/bin/python3
+#!/run/host/home/tomi/Repositories/School/CT30A2803-projekti/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

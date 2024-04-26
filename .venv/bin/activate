@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/tomi/Repositories/School/CT30A2803-projekti/.venv"
+VIRTUAL_ENV="/run/host/home/tomi/Repositories/School/CT30A2803-projekti/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
